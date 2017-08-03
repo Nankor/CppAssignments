@@ -1,0 +1,12 @@
+Cameron Wu;29;50589
+Clifton Stillman;65;99900
+Dean Niles;53;120000
+John Kaufman;53;69597
+Larry Godwin;45;59500
+osman yamuk;23;45000
+Patrick Stroud;48;140565
+Paul Goldsmith;60;200000
+Paul Kane;51;169650
+Susan Carltom;42;85000
+Ursula Spencer;27;36450
+William Reynolds;37;77550
